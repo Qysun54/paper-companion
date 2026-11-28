@@ -1,6 +1,6 @@
 # paper-companion
 
-**English** | [简体中文](README.zh-CN.md)
+**English** | [简体中文](README.zh-CN.md)（check the attached md）
 
 A skill for AI coding assistants. Give it a paper, a technical document, or an open-source project. It breaks the content down to first principles, retells it in plain language, and then tells you **what it means for your own work**.
 
