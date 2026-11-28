@@ -1,6 +1,6 @@
 # paper-companion · 论文阅读搭档
 
-[English](README.md) | **简体中文**
+[English](README.md) | **简体中文（check the attached md）**
 
 一个给 AI 用的 skill。你丢给它一篇论文、技术文档或开源项目,它把内容拆到最底层的问题,用大白话重讲一遍,再告诉你**这对你自己的工作意味着什么**。
 
